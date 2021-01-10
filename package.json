@@ -2,7 +2,7 @@
   "name": "profile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ydahal1.github.io/profile-with-context",
+  "homepage": "http://ydahal1.github.io/preact-profile",
   "dependencies": {
     "@react-firebase/database": "^0.3.11",
     "@testing-library/jest-dom": "^5.11.8",
