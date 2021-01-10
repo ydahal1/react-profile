@@ -1,0 +1,67 @@
+.bg-dark {
+  background: black !important;
+}
+.nameAndButtons {
+  display: flex;
+  justify-content: space-between !important;
+  flex: 1;
+  place-items: center !important;
+}
+
+.contact-info > li .text-white {
+  text-decoration: none;
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.headerAboutMe {
+  color: white !important;
+  font-size: 15px;
+}
+
+.navbar-togglerTop {
+  margin-top: -300px;
+}
+
+.fa-btns {
+  color: white;
+  margin-right: 12px;
+}
+
+.callToActionBtns {
+  border-radius: 0 !important;
+  border: 1px solid white;
+  margin: 8px;
+  padding: 2px 10px 2px 10px !important;
+  background: black;
+}
+
+.contact-link:hover {
+  color: gray !important;
+  letter-spacing: 1px;
+}
+
+.contact-icon {
+  color: white;
+}
+
+.navHidden {
+  background: red !important;
+  padding: 0px !important;
+  /* display: none; */
+  height: 0px;
+}
+
+.brand {
+  text-decoration: none;
+  font-weight: bolder;
+  color: white;
+}
+
+.brand:hover {
+  color: white;
+}
+
+.contact-heading {
+  font-weight: bold;
+}

@@ -1,0 +1,22 @@
+.album {
+  margin-top: 50px;
+  -webkit-transition: all 0.5s linear;
+  -moz-transition: all 0.5s linear;
+  -o-transition: all 0.5s linear;
+  transition: all 0.5s linear;
+  left: 0;
+}
+
+.albumMoved {
+  margin-top: 180px;
+  -webkit-transition: all 0.5s linear;
+  -moz-transition: all 0.5s linear;
+  -o-transition: all 0.5s linear;
+  transition: all 0.5s linear;
+  left: 0;
+}
+
+.fa-thumbs-o-up-clicked {
+  color: black;
+  font-size: 18px;
+}
